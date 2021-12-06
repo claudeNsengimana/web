@@ -1,0 +1,19 @@
+body{
+	
+	
+	background-color:maroon;
+	
+
+
+}
+p{
+	background-color: white;
+	width:50px;
+}
+.header{
+	width:100%;
+	height:30%;
+	text-align:center;
+	text-decoration:none;
+	background-color:orange;
+}
